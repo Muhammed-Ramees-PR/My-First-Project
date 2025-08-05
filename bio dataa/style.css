@@ -1,0 +1,90 @@
+body{
+color: black;
+line-height: 1.6;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.centerimage{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: cover
+  ;
+  
+}
+header{
+  border-radius: 0%;
+  background-color: #1abc9c;
+  border-style: ridge;
+  border-radius: 20px;
+}
+ 
+.biodata{
+  width: 1320px;
+  height: 280px;
+  background-color: rgb(36, 121, 85);
+  border-radius: 20px;
+  border: 1px;
+  border-color: black;
+  border-style: ridge;
+  margin: 10px;
+  border-color: rgb(68, 150, 100);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-shadow: 1px;
+}
+.biodata h2{
+color: aliceblue; 
+ text-transform: uppercase;
+}
+
+.Education{
+  border-radius: 20px;
+  background-color: rgb(61, 126, 101);
+  border: 1px;
+  border-color: rgb(55, 158, 115);
+  border-style: ridge;
+}
+
+.Education h2{
+  color: aliceblue;
+ text-transform: uppercase;
+}
+
+.connect{
+  border-radius: 20px;
+  background-color: rgb(87, 170, 138);
+  border: 1px;
+  border-color: rgb(59, 156, 124);
+  border-style: ridge;
+}
+
+.connect h2{
+  color: aliceblue; 
+ text-transform: uppercase;
+}
+
+.about{
+  border-radius: 20px;
+  background-color: rgb(30, 112, 81);
+  border: 1px;
+  border-color: rgb(50, 146, 109);
+  border-style: ridge;
+}
+
+.about h2{
+  color: aliceblue; 
+ text-transform: uppercase;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
